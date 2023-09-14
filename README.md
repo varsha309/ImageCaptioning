@@ -58,7 +58,7 @@ python test.py image
 
 ## Output
 
-The output of this model is a caption for input image.
+The output of this model is a caption for an input image.
 
 ## Result
 
